@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POS-API", "POS-API.csproj", "{3FC325E3-EC20-41DE-91FD-4208E8BD4F9C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3FC325E3-EC20-41DE-91FD-4208E8BD4F9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FC325E3-EC20-41DE-91FD-4208E8BD4F9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FC325E3-EC20-41DE-91FD-4208E8BD4F9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FC325E3-EC20-41DE-91FD-4208E8BD4F9C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7A988D04-597B-41A3-BEE3-25A501E4D7EF}
+	EndGlobalSection
+EndGlobal

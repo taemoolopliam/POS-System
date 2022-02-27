@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3fc325e3-ec20-41de-91fd-4208e8bd4f9c": {
+      "ProjectGuid": "3fc325e3-ec20-41de-91fd-4208e8bd4f9c",
+      "DisplayName": "POS-API",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
