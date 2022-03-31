@@ -19,7 +19,7 @@ namespace POS_API.Controllers
         {
             OrderServices = orderServices;
         }
-
+        //บันทึกข้อมูล Order
         [HttpPost("Save")]
         public async Task<IActionResult> SaveOrder(OrderReq data)
         {
