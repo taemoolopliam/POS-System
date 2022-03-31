@@ -6,7 +6,7 @@ export default function Header() {
       <div className="leading-9 align-middle">
         <div className="flex justify-between">
           <div className="flex gap-5">
-            <h1 className="text-xl font-bold text-pastel-blue-500 md:text-3xl ">Test Programming Skills </h1>
+            <h1 className="text-xl font-bold text-pastel-blue-500 md:text-3xl ">ทักษะการเขียนโปรเเกรม</h1>
           </div>
           <div
             className="active-mode-mobile "
